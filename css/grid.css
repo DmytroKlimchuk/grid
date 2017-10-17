@@ -11,6 +11,10 @@ html {
     -webkit-box-sizing: border-box;
 }
 
+* {
+    box-sizing: inherit;
+}
+
 body {
     margin: 0;
     font-size: 14px;
@@ -68,9 +72,6 @@ td, th {
     padding: 0;
 }
 
-* {
-    box-sizing: inherit;
-}
 
 
 
