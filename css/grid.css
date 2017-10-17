@@ -1,0 +1,77 @@
+/*------------------Загальні стилі------------------*/
+span {
+    color: red;
+}
+
+html {
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #333;
+    background-color: #fff;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+    display: block;
+}
+
+audio, canvas, video, progress {
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+a {
+    background-color: transparent;
+    text-decoration: none;
+    color: #337ab7;
+}
+
+a:hover, a:focus {
+    text-decoration: underline;
+    color: #23527c;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+small {
+    font-size: 80%;
+}
+
+img {
+    border: 0;
+}
+
+figure {
+    margin: 1em 40px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+td, th {
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+
+
+/*  end ---------------Загальні стилі------------------*/
+
